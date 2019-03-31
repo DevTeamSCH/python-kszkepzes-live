@@ -49,14 +49,14 @@ Note:
 - Kiírja a Zen of Pythont
 - De mi is ez?
 - Python tervezési filozófiája, igy irjuk a python kódunkat
-- Kiemeltem párat nektek, amit fontosnak tartok
+- Kiemeltem párat nektek, amit fontosnak tartok pl: olvashatóság
 
 ---
 
 ### Története
 
 - Guido van Rossum
-- 1991 Python 1
+- 1991 első verzió
 - Magas szintű programozási nyelv
 
 Note:
